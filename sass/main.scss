@@ -1,0 +1,10 @@
+@use "abstracts";
+@use "base";
+@use "components";
+@use "layouts";
+@use "utilities";
+@use "vendor";
+
+body {
+  background-color: red;
+}
